@@ -1,0 +1,139 @@
+﻿*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	width:100%;
+	height:100%;
+	background: rgb(24, 76, 98);
+}
+td.ffg {
+width: 209px;
+
+}
+
+input.inn {
+width: 550px;
+}
+a.xzz {
+background: rgb(71, 95, 123);
+color: white;
+padding: 12px;
+text-decoration: inherit;
+font-family: sans-serif;
+}
+a.xzz:hover {
+background: rgb(41, 49, 60);
+color: white;
+padding: 12px;
+text-decoration: inherit;
+font-family: sans-serif;
+}
+span.cw {
+margin-left: -210px;
+position: absolute;
+margin-top: 6px;
+text-decoration: underline;
+}
+input.vew {
+width: 412px;
+}
+table.tab {
+width: 100%;
+border-style: double;
+border-collapse: collapse;
+}
+span {
+font-size: 12px;
+color: rgb(12, 10, 95);
+}
+td.b {
+padding: 10px;
+font-family: sans-serif;
+}
+td{
+
+font-family: sans-serif;
+}
+input.cssq {
+width: 603px;
+margin-left: -153px;
+}
+td.cc2 {
+  padding: 10px;
+  /* background: red; */
+}
+input[type="text"] {
+
+
+padding: 7px;
+background: rgb(24, 76, 98);
+border: 0px;
+color: white;
+font-family: monospace;
+padding-left: 16px;
+}
+input.click {
+/* margin: auto; */
+background: rgb(40, 176, 73);
+border: 0px;
+padding: 10px;
+color: rgb(255, 255, 255);
+font-family: monospace;
+font-size: 19px;
+}
+input.click1 {
+/* margin: auto; */
+background: rgb(116, 116, 116);
+border: 0px;
+padding: 10px;
+color: rgb(255, 255, 255);
+font-family: monospace;
+font-size: 19px;
+}
+input[type="text"]:HOVER {
+
+
+padding: 7px;
+background: rgb(102, 104, 105);
+border: 0px;
+color: white;
+font-family: monospace;
+padding-left: 16px;
+}
+li {
+padding: 20px;
+}
+.cont {
+width: 682px;
+margin: auto;
+background: rgb(237, 237, 237);
+padding: 31px;
+
+}
+.heder {
+width: 100%;
+height: 100px;
+background: rgb(237, 237, 237);
+}
+ul {
+display: inline-flex;
+list-style-type: none;
+line-height: 48px;
+width: 793px;
+}
+select {
+background: rgb(24, 76, 98);
+padding: 6px;
+color:white;
+}
+h1 {
+font-family: sans-serif;
+font-weight: 300;
+padding-bottom: 18px;
+font-variant: small-caps;
+}
+p {
+font-family: sans-serif;
+display: inline-table;
+}
