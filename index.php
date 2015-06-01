@@ -11,7 +11,7 @@ setlocale(LC_ALL, 'ru_RU.CP1251', 'rus_RUS.CP1251', 'Russian_Russia.1251');
 
 <html>
 <head>
-<title>Форма заполнения</title>
+<title>Форма заполнения новая новая форма</title>
 <link rel="stylesheet" type="text/css" media="all" href="style/style.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
 </head>
